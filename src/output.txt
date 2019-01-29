@@ -1,0 +1,35 @@
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+20 10 7 15 12 11 13 17 16 18 30 25 22 21 23 27 26 28 40 
+true
+true
+true
+true
+Error in delete: java.lang.IllegalArgumentException: Invalid data
+Error in delete: java.lang.IllegalArgumentException: Invalid data
+true
+true
+true
+true
+true
+true
+20 *10 *7 *15 *12 11 *13 17 16 18 *30 *25 22 21 23 *27 *26 28 *40 
+11
+28
